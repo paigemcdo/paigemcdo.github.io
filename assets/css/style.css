@@ -1501,7 +1501,9 @@ textarea.form-input::-webkit-resizer { display: none; }
 
   .skills-item:not(:last-child) { margin-bottom: 25px; }
 
-
+  .resume_button {
+    padding-bottom: 1rem;
+  }
 
   /**
    * #PORTFOLIO, BLOG
